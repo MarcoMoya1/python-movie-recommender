@@ -25,5 +25,16 @@ Enter a movie name: Toy Story
 Monsters, Inc. (2001) ⭐ 3.87
 Toy Story 2 (1999) ⭐ 3.86
 
+## Screenshots
+
+### Welcome Screen
+![Welcome](images/movie.recommender1.png.jpg)
+
+### Search Results
+![Results](images/movie.recommender2.png.jpg)
+
+### Recommendations
+![Recommendations](images/movie.recommender3.png.jpg)
+
 ## Author
 Marco Moya
